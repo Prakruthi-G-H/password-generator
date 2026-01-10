@@ -30,7 +30,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 4. No backend or server setup required
 
 ## 🎯 Purpose of This Project
-This project helped me understand JavaScript better — especially how to handle user inputs, button clicks, and work with random values.
+I built this project to strengthen my JavaScript fundamentals, especially:
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
