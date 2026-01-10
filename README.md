@@ -26,7 +26,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
    `git clone https://github.com/Prakruthi-G-H/HTML-CSS-JAVASCRIPT-PROJECT.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `Passwordgenerator.html` to view the homepage  
+3. Open `index.html` to view the homepage  
 4. No backend or server setup required
 
 ## 🎯 Why I Made This
