@@ -10,6 +10,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 ## ✅ Features
 
 - 🔢 Customize password length
+- 🔐 Generates strong and random passwords
 - Set password length
 - Choose which characters to include (uppercase, lowercase, numbers, symbols)
 - Generate strong and random password
