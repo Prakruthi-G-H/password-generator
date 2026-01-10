@@ -5,7 +5,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 ## 💻 Technologies Used
 - HTML5 – Structure of the web page
 - CSS3 – Styling and responsive layout
-- JavaScript
+- JavaScript (ES6) – Logic for password generation and user interaction
 
 ## ✅ Features
 - Set password length
