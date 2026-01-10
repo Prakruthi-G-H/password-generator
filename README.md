@@ -3,7 +3,7 @@
 This is a simple password generator website made using **HTML, CSS, and JavaScript**. It helps users create strong and random passwords.
 
 ## 💻 Technologies Used
-- HTML
+- HTML5 – Structure of the web page
 - CSS
 - JavaScript
 
