@@ -15,7 +15,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 
 
 ## 📁 Project Structure
-- `Passwordgenerator.html` → Main frontend HTML structure  
+- `index.html` → Main frontend HTML structure  
 - `Passwordgenerator.css` → Styling for layout and elements
 - `Passwordgenerator.js`  → JavaScript functionality
 - `README.md` → Project documentation
