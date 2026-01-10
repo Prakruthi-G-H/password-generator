@@ -36,6 +36,7 @@ I built this project to strengthen my JavaScript fundamentals, especially:
 - Handling user inputs
 - Working with DOM elements
 - Implementing random logic
+- Improving frontend project structuring
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
