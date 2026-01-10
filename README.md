@@ -4,7 +4,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 
 ## 💻 Technologies Used
 - HTML5 – Structure of the web page
-- CSS
+- CSS3 – Styling and responsive layout
 - JavaScript
 
 ## ✅ Features
