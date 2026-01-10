@@ -33,6 +33,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 
 ## 🎯 Purpose of This Project
 I built this project to strengthen my JavaScript fundamentals, especially:
+- Handling user inputs
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
