@@ -8,6 +8,8 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 - JavaScript (ES6) – Logic for password generation and user interaction
 
 ## ✅ Features
+
+- 🔢 Customize password length
 - Set password length
 - Choose which characters to include (uppercase, lowercase, numbers, symbols)
 - Generate strong and random password
