@@ -35,6 +35,7 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 I built this project to strengthen my JavaScript fundamentals, especially:
 - Handling user inputs
 - Working with DOM elements
+- Implementing random logic
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
