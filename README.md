@@ -42,5 +42,4 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 **Prakruthi G H**  
 Bangalore, India  
 📧 prakruthigh28@gmail.com  
-👉 [GitHub](https://github.com/Prakruthi-G-H)  
 👉 [LinkedIn](https://www.linkedin.com/in/prakruthi-g-h)
