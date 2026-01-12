@@ -35,6 +35,7 @@ I built this project to strengthen my JavaScript fundamentals, especially:
 - Working with DOM elements
 - Implementing random logic
 - Improving frontend project structuring
+
 This project helped me gain confidence in writing clean and functional JavaScript code.
 
 ## 🧑‍💻 About Me
