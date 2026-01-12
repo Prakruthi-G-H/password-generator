@@ -1,6 +1,7 @@
 # 🔐 Password Generator Web App
 
-This is a simple password generator website made using **HTML, CSS, and JavaScript**. It helps users create strong and random passwords.
+This is a simple password generator website made using **HTML, CSS, and JavaScript**. 
+This application helps users generate strong, secure, and random passwords with a single click.
 
 ## 💻 Technologies Used
 - HTML5 – Structure of the web page
