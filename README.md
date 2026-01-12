@@ -10,11 +10,11 @@ This application helps users generate strong, secure, and random passwords with 
 
 ## ✅ Features
 
-- 🔢 Customize password length
 - 🔐 Generates strong and random passwords
-- 📋 One-click copy to clipboard functionality
-- 🔠 Choose which characters to include (uppercase, lowercase, numbers, symbols)
+- ⚡ One-click password generation
+- 📋 Copy password to clipboard
 - 🔔 Copy confirmation alert message
+- 🎨 Clean and responsive UI
 
 ## 📁 Project Structure
 - `index.html` → Main frontend HTML structure  
