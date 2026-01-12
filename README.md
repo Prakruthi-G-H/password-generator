@@ -14,6 +14,7 @@ This application helps users generate strong, secure, and random passwords with 
 - 🔐 Generates strong and random passwords
 - 📋 One-click copy to clipboard functionality
 - 🔠 Choose which characters to include (uppercase, lowercase, numbers, symbols)
+- 🔔 Copy confirmation alert message
 
 ## 📁 Project Structure
 - `index.html` → Main frontend HTML structure  
