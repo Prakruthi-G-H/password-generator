@@ -43,6 +43,7 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 ## 🔮 Future Enhancements
 
 - 🔢Add password length customization
+- 🔠 Allow users to choose character types (uppercase, lowercase, numbers, symbols)
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
