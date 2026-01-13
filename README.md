@@ -45,6 +45,7 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 - 🔢Add password length customization
 - 🔠Allow users to choose character types (uppercase, lowercase, numbers, symbols)
 - 📊Password strength indicator
+- 👁️Show / hide password option
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
