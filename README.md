@@ -40,6 +40,8 @@ I built this project to strengthen my JavaScript fundamentals, especially:
 
 This project helped me gain confidence in writing clean and functional JavaScript code.
 
+## 🔮 Future Enhancements
+
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
 Bangalore, India  
