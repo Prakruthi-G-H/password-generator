@@ -47,6 +47,7 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 - 📊Password strength indicator
 - 👁️Show / hide password option
 - 🌙Light / Dark theme
+- 📱Improved mobile responsiveness
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
