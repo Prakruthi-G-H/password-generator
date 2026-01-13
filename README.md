@@ -42,6 +42,8 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 
 ## 🔮 Future Enhancements
 
+- 🔢Add password length customization
+
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
 Bangalore, India  
