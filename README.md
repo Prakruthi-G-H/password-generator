@@ -46,6 +46,7 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 - 🔠Allow users to choose character types (uppercase, lowercase, numbers, symbols)
 - 📊Password strength indicator
 - 👁️Show / hide password option
+- 🌙Light / Dark theme
 
 ## 🧑‍💻 About Me
 **Prakruthi G H**  
