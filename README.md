@@ -49,7 +49,7 @@ This project helped me gain confidence in writing clean and functional JavaScrip
 - 🌙Light / Dark theme
 - 📱Improved mobile responsiveness
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Developed By
 **Prakruthi G H**  
 Bangalore, India  
 📧 prakruthigh28@gmail.com  
