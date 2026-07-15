@@ -11,7 +11,7 @@ A simple and responsive Password Generator Web Application built using HTML5, CS
 
 - 🔐 Generates strong and random passwords
 - ⚡ One-click password generation
-- 📋 Copy password to clipboard
+- 📋 Copy generated password to the clipboard
 - 🔔 Copy confirmation alert message
 - 🎨 Clean and responsive UI
 
