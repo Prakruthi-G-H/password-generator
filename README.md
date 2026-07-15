@@ -5,7 +5,7 @@ A simple and responsive Password Generator Web Application built using HTML5, CS
 ## 💻 Technologies Used
 - HTML5 – Structure of the web page
 - CSS3 – Styling and responsive layout
-- JavaScript (ES6) – Logic for password generation and user interaction
+- JavaScript (ES6) – Password generation logic and DOM manipulation
 
 ## ✅ Features
 
