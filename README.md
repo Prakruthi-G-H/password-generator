@@ -13,7 +13,7 @@ A simple and responsive Password Generator Web Application built using HTML5, CS
 - ⚡ One-click password generation
 - 📋 Copy generated password to the clipboard
 - 🔔 Copy confirmation alert message
-- 🎨 Clean and responsive UI
+- 🎨 Clean and responsive user interface
 
 ## 📁 Project Structure
 - `index.html` → Main frontend HTML structure  
