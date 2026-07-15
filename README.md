@@ -31,7 +31,7 @@ A simple and responsive Password Generator Web Application built using HTML5, CS
 4. No backend or server setup required
 
 ## 🎯 Purpose of This Project
-I built this project to strengthen my JavaScript fundamentals, especially:
+Through this project, I strengthened my understanding of:
 - Handling user inputs
 - Working with DOM elements
 - Implementing random logic
