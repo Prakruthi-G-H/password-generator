@@ -38,7 +38,7 @@ I built this project to strengthen my JavaScript fundamentals, especially:
 - Implementing random logic
 - Improving frontend project structuring
 
-This project helped me gain confidence in writing clean and functional JavaScript code.
+This project strengthened my understanding of JavaScript fundamentals, DOM manipulation, event handling, and building interactive web applications.
 
 ## 🔮 Future Enhancements
 
